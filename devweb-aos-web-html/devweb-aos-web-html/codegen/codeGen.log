@@ -1,0 +1,278 @@
+[18:51:19.40] Info: Running build Release_2021.0.0_2004 on windows
+[18:51:19.40] Info: DevWeb offline generator started with 'har' mode, 'url' level.
+[18:51:19.40] Info: Generating script from '.\nimbusserver.aos.com.har'.
+[18:51:19.40] Info: Using configuration file: C:\ProgramData\Micro Focus\LoadRunner\DevWeb\generator_config.yml.
+[18:51:19.44] Info: HAR file loaded, started parsing phase.
+[18:51:19.44] Info: Parsing done, loaded 146 steps from HAR.
+[18:51:19.44] Info: Configured headers to filter: [Host Content-Length Cookie]
+[18:51:19.44] Info: Configured hosts black list: [.*google.* .*bing.* .*geolocation.* .*gstatic.* .*firefox.*]
+[18:51:19.44] Info: Configured extensions to filter: [.ico]
+[18:51:19.44] Info: **********************************************
+[18:51:19.44] Info: WebRequest [Id: 1] GET 'http://nimbusserver.aos.com:8000/'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 2] GET 'http://nimbusserver.aos.com:8000/css/main.min.css'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 3] GET 'http://nimbusserver.aos.com:8000/css/images/Down_arrow.svg'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 4] GET 'http://nimbusserver.aos.com:8000/vendor/requirejs/require.js'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 5] GET 'http://nimbusserver.aos.com:8000/main.min.js'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 6] GET 'http://nimbusserver.aos.com:8000/services.properties'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 7] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 8] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 9] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff'
+[18:51:19.45] Info: **********************************************
+[18:51:19.45] Info: WebRequest [Id: 10] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories/all_data'
+[18:51:19.46] Info: **********************************************
+[18:51:19.46] Info: WebRequest [Id: 11] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL'
+[18:51:19.46] Info: **********************************************
+[18:51:19.46] Info: WebRequest [Id: 12] GET 'http://nimbusserver.aos.com:8000/css/images/logo.png'
+[18:51:19.46] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 13] GET 'http://nimbusserver.aos.com:8000/css/images/closeDark.png'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 14] POST 'http://nimbusserver.aos.com:8001/accountservice/GetAccountConfigurationRequest'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 15] OPTIONS 'http://nimbusserver.aos.com:8001/accountservice/GetAccountConfigurationRequest'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 16] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 17] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/deals/search'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 18] GET 'http://nimbusserver.aos.com:8000/app/tempFiles/popularProducts.json'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 19] GET 'http://nimbusserver.aos.com:8000/app/views/home-page.html'
+[18:51:19.47] Info: **********************************************
+[18:51:19.47] Info: WebRequest [Id: 20] GET 'http://nimbusserver.aos.com:8000/css/images/arrow_right.png'
+[18:51:19.48] Info: **********************************************
+[18:51:19.48] Info: WebRequest [Id: 21] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff'
+[18:51:19.48] Info: **********************************************
+[18:51:19.48] Info: WebRequest [Id: 22] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff'
+[18:51:19.48] Info: **********************************************
+[18:51:19.48] Info: WebRequest [Id: 23] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.48] Info: **********************************************
+[18:51:19.48] Info: WebRequest [Id: 24] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 25] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 26] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 27] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 28] GET 'http://nimbusserver.aos.com:8000/css/images/Special-offer.jpg'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 29] GET 'http://nimbusserver.aos.com:8000/css/images/GoUp.png'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 30] GET 'http://nimbusserver.aos.com:8000/css/images/chat_logo.png'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 31] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 32] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.49] Info: **********************************************
+[18:51:19.49] Info: WebRequest [Id: 33] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.50] Info: **********************************************
+[18:51:19.50] Info: WebRequest [Id: 34] GET 'http://nimbusserver.aos.com:8000/css/images/Banner1.jpg'
+[18:51:19.50] Info: **********************************************
+[18:51:19.50] Info: WebRequest [Id: 35] GET 'http://nimbusserver.aos.com:8000/css/images/Banner2.jpg'
+[18:51:19.50] Info: **********************************************
+[18:51:19.50] Info: WebRequest [Id: 36] GET 'http://nimbusserver.aos.com:8000/css/images/Banner3.jpg'
+[18:51:19.50] Info: **********************************************
+[18:51:19.50] Info: WebRequest [Id: 37] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item3.jpg'
+[18:51:19.50] Info: **********************************************
+[18:51:19.50] Info: WebRequest [Id: 38] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item2.jpg'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 39] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item1.jpg'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 40] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories/attributes'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 41] GET 'http://nimbusserver.aos.com:8000/app/views/category-page.html'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 42] GET 'http://nimbusserver.aos.com:8000/css/images/category_banner_4.png'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 43] GET 'http://nimbusserver.aos.com:8000/css/images/Filter.png'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 44] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 45] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 46] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 47] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.51] Info: **********************************************
+[18:51:19.51] Info: WebRequest [Id: 48] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 49] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 50] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 51] GET 'http://nimbusserver.aos.com:8000/'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 52] GET 'http://nimbusserver.aos.com:8000/css/main.min.css'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 53] GET 'http://nimbusserver.aos.com:8000/css/images/Down_arrow.svg'
+[18:51:19.52] Info: **********************************************
+[18:51:19.52] Info: WebRequest [Id: 54] GET 'http://nimbusserver.aos.com:8000/vendor/requirejs/require.js'
+[18:51:19.54] Info: **********************************************
+[18:51:19.54] Info: WebRequest [Id: 55] GET 'http://nimbusserver.aos.com:8000/main.min.js'
+[18:51:19.54] Info: **********************************************
+[18:51:19.54] Info: WebRequest [Id: 56] GET 'http://nimbusserver.aos.com:8000/services.properties'
+[18:51:19.54] Info: **********************************************
+[18:51:19.54] Info: WebRequest [Id: 57] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 58] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 59] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 60] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories/all_data'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 61] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 62] GET 'http://nimbusserver.aos.com:8000/css/images/logo.png'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 63] GET 'http://nimbusserver.aos.com:8000/css/images/closeDark.png'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 64] POST 'http://nimbusserver.aos.com:8001/accountservice/GetAccountConfigurationRequest'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 65] OPTIONS 'http://nimbusserver.aos.com:8001/accountservice/GetAccountConfigurationRequest'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 66] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories'
+[18:51:19.55] Info: **********************************************
+[18:51:19.55] Info: WebRequest [Id: 67] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/deals/search'
+[18:51:19.56] Info: **********************************************
+[18:51:19.56] Info: WebRequest [Id: 68] GET 'http://nimbusserver.aos.com:8000/app/tempFiles/popularProducts.json'
+[18:51:19.56] Info: **********************************************
+[18:51:19.56] Info: WebRequest [Id: 69] GET 'http://nimbusserver.aos.com:8000/app/views/home-page.html'
+[18:51:19.56] Info: **********************************************
+[18:51:19.56] Info: WebRequest [Id: 70] GET 'http://nimbusserver.aos.com:8000/css/images/arrow_right.png'
+[18:51:19.56] Info: **********************************************
+[18:51:19.56] Info: WebRequest [Id: 71] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff'
+[18:51:19.56] Info: **********************************************
+[18:51:19.56] Info: WebRequest [Id: 72] GET 'http://nimbusserver.aos.com:8000/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 73] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 74] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 75] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 76] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 77] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 78] GET 'http://nimbusserver.aos.com:8000/css/images/Special-offer.jpg'
+[18:51:19.57] Info: **********************************************
+[18:51:19.57] Info: WebRequest [Id: 79] GET 'http://nimbusserver.aos.com:8000/css/images/chat_logo.png'
+[18:51:19.58] Info: **********************************************
+[18:51:19.58] Info: WebRequest [Id: 80] GET 'http://nimbusserver.aos.com:8000/css/images/GoUp.png'
+[18:51:19.58] Info: **********************************************
+[18:51:19.58] Info: WebRequest [Id: 81] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.58] Info: **********************************************
+[18:51:19.58] Info: WebRequest [Id: 82] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.58] Info: **********************************************
+[18:51:19.58] Info: WebRequest [Id: 83] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.58] Info: **********************************************
+[18:51:19.58] Info: WebRequest [Id: 84] GET 'http://nimbusserver.aos.com:8000/css/images/Banner1.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 85] GET 'http://nimbusserver.aos.com:8000/css/images/Banner2.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 86] GET 'http://nimbusserver.aos.com:8000/css/images/Banner3.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 87] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item3.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 88] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item2.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 89] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item1.jpg'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 90] GET 'http://nimbusserver.aos.com:8000/catalog/api/v1/categories/attributes'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 91] GET 'http://nimbusserver.aos.com:8000/app/views/category-page.html'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 92] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 93] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.59] Info: **********************************************
+[18:51:19.59] Info: WebRequest [Id: 94] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 95] GET 'http://nimbusserver.aos.com:8000/css/images/category_banner_3.png'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 96] GET 'http://nimbusserver.aos.com:8000/css/images/Filter.png'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 97] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 98] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 99] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 100] GET 'http://nimbusserver.aos.com:8000/app/views/product-page.html'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 101] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 102] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.60] Info: **********************************************
+[18:51:19.60] Info: WebRequest [Id: 103] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 104] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 105] GET 'http://nimbusserver.aos.com:8000/css/images/review_right.png'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 106] GET 'http://nimbusserver.aos.com:8000/css/images/reviewUser.png'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 107] GET 'http://nimbusserver.aos.com:8000/css/images/review_Left_disabled.png'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 108] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 109] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 110] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 111] GET 'http://nimbusserver.aos.com:8000/app/order/views/user-not-login-page.html'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 112] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.61] Info: **********************************************
+[18:51:19.61] Info: WebRequest [Id: 113] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 114] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 115] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 116] GET 'http://nimbusserver.aos.com:8000/css/images/chat_logo.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 117] GET 'http://nimbusserver.aos.com:8000/css/images/Special-offer.jpg'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 118] GET 'http://nimbusserver.aos.com:8000/css/images/GoUp.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 119] GET 'http://nimbusserver.aos.com:8000/css/images/facebook.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 120] GET 'http://nimbusserver.aos.com:8000/css/images/twitter.png'
+[18:51:19.62] Info: **********************************************
+[18:51:19.62] Info: WebRequest [Id: 121] GET 'http://nimbusserver.aos.com:8000/css/images/linkedin.png'
+[18:51:19.63] Info: **********************************************
+[18:51:19.63] Info: WebRequest [Id: 122] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.63] Info: **********************************************
+[18:51:19.63] Info: WebRequest [Id: 123] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.63] Info: **********************************************
+[18:51:19.63] Info: WebRequest [Id: 124] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.63] Info: **********************************************
+[18:51:19.63] Info: WebRequest [Id: 125] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.63] Info: **********************************************
+[18:51:19.63] Info: WebRequest [Id: 126] GET 'http://nimbusserver.aos.com:8000/catalog/fetchImage'
+[18:51:19.64] Info: **********************************************
+[18:51:19.64] Info: WebRequest [Id: 127] GET 'http://nimbusserver.aos.com:8000/css/images/Banner1.jpg'
+[18:51:19.64] Info: **********************************************
+[18:51:19.64] Info: WebRequest [Id: 128] GET 'http://nimbusserver.aos.com:8000/css/images/Banner2.jpg'
+[18:51:19.64] Info: **********************************************
+[18:51:19.64] Info: WebRequest [Id: 129] GET 'http://nimbusserver.aos.com:8000/css/images/Banner3.jpg'
+[18:51:19.64] Info: **********************************************
+[18:51:19.64] Info: WebRequest [Id: 130] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item3.jpg'
+[18:51:19.64] Info: **********************************************
+[18:51:19.64] Info: WebRequest [Id: 131] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item2.jpg'
+[18:51:19.65] Info: **********************************************
+[18:51:19.65] Info: WebRequest [Id: 132] GET 'http://nimbusserver.aos.com:8000/css/images/Popular-item1.jpg'
+[18:51:19.65] Info: Created 132 steps.
+[18:51:19.65] Info: scenario.yml already exists at 'C:\Users\demo\Downloads\AOS-devweb' and will not be updated.
+[18:51:19.65] Info: rts.yml already exists at 'C:\Users\demo\Downloads\AOS-devweb\rts.yml' and will not be updated.
+[18:51:19.65] Info: DevWeb script generated in folder 'C:\Users\demo\Downloads\AOS-devweb'.
+[18:51:19.66] Info: Save input file as C:\Users\demo\Downloads\AOS-devweb\codegen\codegen.har
